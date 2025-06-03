@@ -29,10 +29,9 @@ A visually appealing **Parallax Scrolling Website** built using only **HTML** an
 
 
 
-
 ---
-
-![Parallax Website Screenshot](https://github.com/Pratibha-Singh00/Parallax_Website/raw/main/Screenshot%202025-06-03%20111651.png)
+## Parallax Website Screenshot
+(https://github.com/Pratibha-Singh00/Parallax_Website/raw/main/Screenshot%202025-06-03%20111651.png)
 
 ---
 
