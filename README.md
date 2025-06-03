@@ -23,14 +23,16 @@ A visually appealing **Parallax Scrolling Website** built using only **HTML** an
 
 ## 🌐 Live Demo
 
-👉 [Live Demo]([https://your-deployment-link-here.co](https://www.youtube.com/watch?v=your-video-id](https://parallax-website-six-ecru.vercel.app/))m)  
+## 🚀 Demo Links
+
+[![🌐 Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightblue?style=for-the-badge)](https://parallax-website-six-ecru.vercel.app/)
+
+
 
 
 ---
 
-## 🖼️ Screenshot
-
-![Parallax Screenshot](https://github.com/Pratibha-Singh00/ParallaxWebsite/raw/main/30632d51-2853-400d-816c-b2f5796aadfc.png)
+![Parallax Website Screenshot](https://github.com/Pratibha-Singh00/Parallax_Website/raw/main/Screenshot%202025-06-03%20111651.png)
 
 ---
 
